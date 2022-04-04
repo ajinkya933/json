@@ -1,11 +1,11 @@
 [
     {
         "type": "section",
-        "text": {"type": "mrkdwn", "text": "Who is the US presedent in 2002"}
+        "text": {"type": "mrkdwn", "text": "How many stages are there in PSLV ?"}
     },
     {
         "type": "image",
-        "image_url": "https://i1.wp.com/thetempest.co/wp-content/uploads/2017/08/The-wise-words-of-Michael-Scott-Imgur-2.jpg?w=1024&ssl=1",
+        "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2019/12/11/834877-pslv-risat-970.jpg",
         "alt_text": "inspiration"
     },
     {
@@ -15,7 +15,7 @@
                 "type": "button",
                 "text": {
                     "type": "plain_text",
-                    "text": "Andrew Sanders"
+                    "text": "Two"
                 },
                 "value": "click_me_123",
                 "action_id": "actionId-Q20"
@@ -29,7 +29,7 @@
                 "type": "button",
                 "text": {
                     "type": "plain_text",
-                    "text": "Jorge Bush"
+                    "text": "Four"
                 },
                 "value": "click_me_123",
                 "action_id": "actionId-Q21"
@@ -43,7 +43,7 @@
                 "type": "button",
                 "text": {
                     "type": "plain_text",
-                    "text": "Bill Clinton"
+                    "text": "Six"
                 },
                 "value": "click_me_123",
                 "action_id": "actionId-Q22"
