@@ -1,0 +1,54 @@
+[
+    {
+        "type": "section",
+        "text": {"type": "mrkdwn", "text": "How many stages are there in PSLV ?"}
+    },
+    {
+        "type": "image",
+        "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2019/12/11/834877-pslv-risat-970.jpg",
+        "alt_text": "inspiration"
+    },
+    {
+        "type": "actions",
+        "elements": [
+            {
+                "type": "button",
+                "text": {
+                    "type": "plain_text",
+                    "text": "Two"
+                },
+                "value": "click_me_123",
+                "action_id": "actionId-Q20"
+            }
+        ]
+    },
+    {
+        "type": "actions",
+        "elements": [
+            {
+                "type": "button",
+                "text": {
+                    "type": "plain_text",
+                    "text": "Four"
+                },
+                "value": "click_me_123",
+                "action_id": "actionId-Q21"
+            }
+        ]
+    },
+    {
+        "type": "actions",
+        "elements": [
+            {
+                "type": "button",
+                "text": {
+                    "type": "plain_text",
+                    "text": "Six"
+                },
+                "value": "click_me_123",
+                "action_id": "actionId-Q22"
+            }
+        ]
+    }
+]
+    
